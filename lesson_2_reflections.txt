@@ -15,3 +15,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 You may also want to commit your changes to the file. When you're ready to move on, click "Next" and Sarah will go over a concept called branching.
 
 make a easy mode
+
+make change in the easy-mode
