@@ -8,3 +8,5 @@ How is the staging area different from the working directory and the repository?
 When you've updated your document, click "Next" and Caroline will go over how to commit the changes you’ve added to the staging area.
 
 commit2
+
+commit4
